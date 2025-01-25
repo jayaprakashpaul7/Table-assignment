@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
-import TableWithColumns from "./components/Home";
+import TableWithColumns from "./components/TableWithColumns";
 
 function App() {
   return (
